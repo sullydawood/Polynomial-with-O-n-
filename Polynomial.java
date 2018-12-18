@@ -1,7 +1,3 @@
-//Sully Dawood - 260679328 - Assignment 2, Comp250
-
-package assignment2;
-
 import java.math.BigInteger;
 import java.util.Iterator;
 
