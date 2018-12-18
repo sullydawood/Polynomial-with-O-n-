@@ -1,5 +1,3 @@
-package assignment2;
-
 import java.math.BigInteger;
 
 // Note that this tester will not check the correctness of your code.
