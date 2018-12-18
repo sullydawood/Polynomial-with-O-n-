@@ -1,6 +1,5 @@
-//Sully Dawood - 260679328 - Assignment 2, Comp250
+//Sully Dawood 
 
-package assignment2;
 import java.lang.Iterable;
 import java.util.Iterator;
 
